@@ -1,0 +1,3 @@
+[submodule "JMAndroidFramework"]
+	path = JMAndroidFramework
+	url = https://github.com/jmo0612/JMAndroidFramework.git
